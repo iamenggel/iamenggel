@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @iamenggel
-- 👀 I’m interested in data analyzis. 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me enggelcarmo@gmail.com
 
 <!---
